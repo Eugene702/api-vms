@@ -20,6 +20,7 @@ Accept: application/json
 ---
 
 ## Response Berhasil (200 OK)
+```json
 {
     "status": true,
     "message": "Success",
@@ -129,3 +130,4 @@ Accept: application/json
         }
     }
 }
+```
