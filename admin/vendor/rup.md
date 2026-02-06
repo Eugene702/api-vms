@@ -1,4 +1,4 @@
-# Ambil Data Index
+# Ambil Data Table RUP
 
 API untuk mengambil data Table RUP
 
