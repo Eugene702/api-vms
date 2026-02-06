@@ -14,3 +14,4 @@ Digunakan untuk integrasi PUAS PRO.
 - [Vendor Expert](admin/vendor-expert-data.md)
 - [Vendor Finance](admin/vendor-finance.md)
 - [https://vms.kincatonly.com/vendor/administration](admin/vendor/administration.md)
+- [https://vms.kincatonly.com/vendor/rup](admin/vendor/rup.md)
