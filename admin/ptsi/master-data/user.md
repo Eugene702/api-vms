@@ -14,18 +14,18 @@ POST /api/master-data/data/user/save
 # Payload
 ```json
 {
-    "name" => "",
-    "group_user" => "",
-    "nik" => "",
-    "division" => "",
-    "username" => "",
-    "password" => "",
-    "email" => "",
-    "unit" => "",
-    "role" => "",
-    "status" => "",
-    "activation_token" => "",
-    "view_only" => "",
+    "name": "",
+    "group_user": "",
+    "nik": "",
+    "division": "",
+    "username": "",
+    "password": "",
+    "email": "",
+    "unit": "",
+    "role": "",
+    "status": "",
+    "activation_token": "",
+    "view_only": "",
 }
 ```
 
@@ -105,17 +105,17 @@ POST /api/master-data/data/user/update/{id}
 # Payload
 ```json
 {
-    "name" => "",
-    "group_user" => "",
-    "nik" => "",
-    "division" => "",
-    "username" => "",
-    "password" => "",
-    "email" => "",
-    "unit" => "",
-    "role" => "",
-    "status" => "",
-    "activation_token" => "",
-    "view_only" => "",
+    "name": "",
+    "group_user": "",
+    "nik": "",
+    "division": "",
+    "username": "",
+    "password": "",
+    "email": "",
+    "unit": "",
+    "role": "",
+    "status": "",
+    "activation_token": "",
+    "view_only": "",
 }
 ```
