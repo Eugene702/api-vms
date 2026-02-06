@@ -19,3 +19,4 @@ Digunakan untuk integrasi PUAS PRO.
 
 # API PTSI
 - [https://ptsi.kincatonly.com/admin/master-data/document-type](admin/ptsi//master-data/document-type.md)
+- [https://ptsi.kincatonly.com/admin/master-data/user](admin/ptsi//master-data/user.md)
