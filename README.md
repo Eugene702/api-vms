@@ -12,3 +12,4 @@ Digunakan untuk integrasi PUAS PRO.
 - [Login](auth/login.md)
 - [Vendor Teknis](admin/vendor-teknis.md)
 - [Vendor Expert](admin/vendor-expert-data.md)
+- [Vendor Expert](admin/vendor-finance.md)
